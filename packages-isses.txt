@@ -1,0 +1,36 @@
+
+student crud operation with cascading drop down list
+react + api
+
+working good for crud operation with core api
+use for practical purpose
+
+
+database- 
+StudentReactASPCore
+
+
+code first migration -
+
+add-migration 'initial'
+update-database
+
+"ConnectionStrings": {
+    "StudentDbContext": "server=ATI-1;database=StudentReactASPCore;Integrated Security=True; MultipleActiveResultSets=true; TrustServerCertificate=True;"
+  }
+
+
+issue- not found
+
+
+packages
+
+Microsoft.AspNetCore.Cors 2.1.1
+Microsoft.EntityFrameworkCore.Design 7.0.1
+Microsoft.EntityFrameworkCore.SqlServer 7.0.1
+Microsoft.EntityFrameworkCore.Tools 7.0.1
+Newtonsoft.Json 13.0.2
+
+
+
+
